@@ -1,3 +1,16 @@
+> **MMM/TEAM-MMM01 preamble — read this before anything below.**
+> This repo is `NemoClaw`, TEAM-MMM01's fork of NVIDIA's open-source **OpenShell**
+> project (upstream: https://github.com/NVIDIA/OpenShell), tracked here as MMM's
+> sandboxed agent runtime. Everything below this line is **unmodified upstream
+> OpenShell content** describing OpenShell's own community contribution process —
+> it is not TEAM-MMM01-specific and you are not triaging OpenShell's community
+> issues. MMM-specific configuration, roles, SOPs, and policy live in the separate
+> `MMM-Oracle-Config` repo, loaded at runtime — check there for how this fork is
+> actually operated. Do not edit the upstream content below to add MMM-specific
+> instructions; add them to MMM-Oracle-Config instead, so upstream syncs stay clean.
+>
+> ---
+
 # Agent Instructions
 
 This file is the primary instruction surface for agents contributing to OpenShell. It is injected into your context on every interaction — keep that in mind when proposing changes to it.
