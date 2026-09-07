@@ -36,7 +36,7 @@ anyhow = { workspace = true }
 hmac = "0.12"
 sha2 = "0.10"
 hex = "0.4"
-russh = "0.57"
+russh = "0.60"
 rand_core = "0.6"
 
 # OPA policy evaluation (no default features — full-opa pulls in opa-runtime which requires git in build)
