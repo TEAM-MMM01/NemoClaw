@@ -71,7 +71,7 @@ hmac = "0.12"
 sha2 = "0.10"
 hex = "0.4"
 russh = "0.60"
-rand = "0.9"
+rand = "0.10"
 petname = "2"
 
 [dev-dependencies]
